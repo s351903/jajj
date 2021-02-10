@@ -1,10 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7db041b-575a-400c-b339-e17e8ded16fc" name="Default Changelist" comment="jeg abejs-vg.kbvj">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/See-Correct-it-main.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="ProjectId" id="1oIA9BknKPG2dZDDOMTyahKQ9sy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7db041b-575a-400c-b339-e17e8ded16fc" name="Default Changelist" comment="" />
+      <created>1612963576875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612963576875</updated>
+      <workItem from="1612963577970" duration="161000" />
+    </task>
+    <task id="LOCAL−00001" summary="jeg abejs-vg.kbvj">
+      <created>1612963728638</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1612963728638</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jeg abejs-vg.kbvj" />
+    <option name="LAST_COMMIT_MESSAGE" value="jeg abejs-vg.kbvj" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="561" y="354" key="Github.ShareDialog" timestamp="1612963618440">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="561" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1612963618440" />
+    <state x="513" y="162" key="Github.UntrackedFilesDialog" timestamp="1612963636876">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="513" y="162" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1612963636876" />
   </component>
 </project>
